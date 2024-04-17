@@ -1,4 +1,4 @@
-Vytvořte dle prototypu návrh. Kategorie nad produkty musí být vytvořeny tak, že budou řešeny pomocí overflow scroll a v případě, že přesahují přes okraj obrazovky, tak se zobrazí šipky, které posunou overflow  scroll na další kategorii.
+Vytvořte dle prototypu návrh. Kategorie nad produkty musí být vytvořeny tak, že budou řešeny pomocí overflow scroll a v případě, že přesahují přes okraj obrazovky, tak se zobrazí šipky, které posunou overflow  scroll na další kategorii ( viz. script níže ).
 
 Desktop řešit nemusíte, případně jen vhodně zalomte. Preferované zobrazení produktů je pomocí gridu.
 
