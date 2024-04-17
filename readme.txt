@@ -8,7 +8,7 @@ Použijte :
 
 - Tailwind
 
-- React query
+- React query ( doporučeno, není nutné )
 
 - Next.js
 
